@@ -657,6 +657,7 @@ ul {
     max-width: 400px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 30px;
 }
 
 .value>.center-results {
@@ -802,6 +803,7 @@ ul {
 
 .split-page {
     width: 100%;
+    margin-bottom: 30px;
 }
 
 .for-graphs {
@@ -847,6 +849,7 @@ ul {
 
 #submit-table.container {
     margin-top: 45px;
+    margin-bottom: 30px
 }
 
 /* styles for devices less than 768px wide */
@@ -1092,6 +1095,7 @@ ul {
 
     #submit-table .center-results.buttons {
         flex-wrap: wrap;
+        /* margin-bottom:  200px; */
     }
 
     .table-bg {
