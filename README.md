@@ -1,4 +1,4 @@
-# SPECIFICATION FOR A WEBSITE
+E# SPECIFICATION FOR A WEBSITE
 
 ## Overview
 A website where users will be able to count their CO2 footprint and save information in order to make statistics about how many tones of CO2 was produced by them during the specified month.
